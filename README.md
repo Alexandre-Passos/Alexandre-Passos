@@ -8,8 +8,8 @@
 
 ## 🛠️ Habilidades em Desenvolvimento
 - **HTML & CSS** (Iniciante)
-- **JavaScript** (Estudo futuro)
-- **Python** (Estudo futuro)
+- **JavaScript** (Mediano)
+- **Python** (Mediano)
 
 ---
 
