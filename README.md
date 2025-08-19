@@ -5,13 +5,15 @@
 🚀 Interessado em aprender e contribuir com projetos de tecnologia e inovação.
 
 ---
-
 ## 🛠️ Habilidades em Desenvolvimento
-- **HTML & CSS** (Iniciante)
-- **JavaScript** (Mediano)
+- **HTML & CSS** (Intermediário)
+- **JavaScript** (Intermediário)
 - **Python** (Mediano)
-
----
+- **TypeScript** (Iniciante)
+- **Express.js** (Iniciante)
+- **APIs REST** (Iniciante)
+- **Angular** (Iniciante)
+- **SQL** (Iniciante)
 
 ### 🤖 Linguagens e Tecnologias
 
