@@ -1,7 +1,7 @@
 # 👨‍💻 Alexandre Passos  
 
 🎓 **Acadêmico de Licenciatura em Computação** pela **Universidade Estadual do Amazonas (UEA)**.  
-📚 Atualmente desenvolvendo habilidades em **HTML**, **CSS**, **JavaScript** e **Python**.  
+📚 Atualmente desenvolvendo habilidades em **HTML**, **CSS**, **JavaScript**, **TypeScript** e **Python**.  
 🚀 Interessado em aprender e contribuir com projetos de tecnologia e inovação.
 
 ---
