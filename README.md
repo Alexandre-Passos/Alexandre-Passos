@@ -8,12 +8,13 @@
 ## 🛠️ Habilidades em Desenvolvimento
 - **HTML & CSS** (Intermediário)
 - **JavaScript** (Intermediário)
-- **Python** (Iniciante)
-- **TypeScript** (Iniciante)
-- **Angular** (Iniciante)
+- **Node.js** (Iniciante)
 - **Express.js** (Iniciante)
 - **APIs REST** (Iniciante)
-- **SQL** (Iniciante)
+- **MySQL** (Iniciante)
+- **TypeScript** (Iniciante)
+- **Angular** (Iniciante)
+- **Python** (Iniciante)
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -43,11 +44,27 @@
 />
 <img
   align="left"
-  alt="Python"
-  title="Python"
+  alt="Node.js"
+  title="Node.js"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img
+  align="left"
+  alt="Express.js"
+  title="Express.js"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+/>
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img
   align="left"
@@ -67,19 +84,11 @@
 />
 <img
   align="left"
-  alt="Express.js"
-  title="Express.js"
+  alt="Python"
+  title="Python"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-<img
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <br/>
