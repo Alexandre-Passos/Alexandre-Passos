@@ -8,7 +8,7 @@
 ## 🛠️ Habilidades em Desenvolvimento
 - **HTML & CSS** (Intermediário)
 - **JavaScript** (Intermediário)
-- **Python** (Mediano)
+- **Python** (Iniciante)
 - **TypeScript** (Iniciante)
 - **Express.js** (Iniciante)
 - **APIs REST** (Iniciante)
