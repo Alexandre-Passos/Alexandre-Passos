@@ -40,10 +40,8 @@ Sou acadêmico de **Licenciatura em Computação na UEA**. Atualmente focado em 
 Desde junho de 2025, atuo como Desenvolvedor Front-end no **TECNOCOMP**, projeto de extensão da UEA.
 
 - 🎓 **Formação:** Licenciatura em Computação - UEA (Previsão: 2028)
-- 💼 **Experiência:** Front-end no Projeto TECNOCOMP (desde Jun/2025)
+- 💼 **Experiência:** Front-end no Projeto TECNOCOMP (desde Junho/2025)
 - 🚀 **Foco:** Desenvolvimento Mobile (Flutter) e Web Moderno
-- 🌍 **Idiomas:** Estudando Inglês, Coreano e Russo
-
 ---
 
 ### 🛠️ Tech Stack
