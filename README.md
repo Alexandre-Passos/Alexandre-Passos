@@ -22,7 +22,7 @@
   <a href="mailto:alexandre15passos@gmail.com">
     <img src="https://img.shields.io/badge/-Email-006400?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@ManiDrex" target="_blank">
+  <a href="https://www.youtube.com/@AprendendoTec" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-006400?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://discord.com/users/hytale13579" target="_blank">
