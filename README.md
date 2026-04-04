@@ -90,14 +90,7 @@
 
 <div align="center">
   <table align="center">
-    <tr>
-        <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Passos&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&title_color=2E8B57&icon_color=2E8B57" alt="Estatísticas do GitHub" />
-        </td>
-        <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Passos&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&title_color=2E8B57" alt="Linguagens Mais Usadas" />
-        </td>
-    </tr>
+    
   </table>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Alexandre-Passos&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=2E8B57&fire=2E8B57" alt="GitHub Streak" />
